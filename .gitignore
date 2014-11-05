@@ -1,7 +1,6 @@
 *.swo
 bower_components
 .DS_Store
-public
 npm-debug.log
 .sass-cache
 node_modules
